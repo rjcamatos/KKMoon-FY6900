@@ -21,7 +21,10 @@ TAB Control Screenshot
 
 TAB Wave Form Editor Screenshot
 ![Alt text](/ScreenShot-02.jpg?raw=true "Wave Editor Tab")
-  
+
+Read this GitHub project WIKI, for basic steps on how to run it
+
+If like it, leave a star
   
 For good things visit ...
 
