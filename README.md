@@ -1,19 +1,19 @@
 # KKMoon, FeelTeck, FeeElec - Model: FY6900
 # Digital Signal Generator Control Software
 
-Open Source Software Build On To Of Framework Qt 6.2.3
+Open Source Software build on top of QT Framework 6.2.3
 
-Suported Operations:
+Suported operations:
 
-  Get and Set Channel 1 And 2
+  Read and write channel 1 and 2
 
-  Get and Set Modulation
+  Read and write modulation
 
-  Set Sweep
+  Write sweep
 
-  Get and Set Measurment
+  Read and write measurment
 
-  Draw and Upload AWG Waveforms
+  Draw and upload AWG waveforms
 
 TAB Control Screenshot
 ![Alt text](/ScreenShot-01.jpg?raw=true "Control Tab")
