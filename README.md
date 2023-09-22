@@ -29,3 +29,6 @@ If like it, leave a star
 For good things visit ...
 
 http://electro.myself.ws
+
+Make a donation
+http://paypal.me/rjcamatos
